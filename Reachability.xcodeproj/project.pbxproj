@@ -415,7 +415,7 @@
 					AA7344711BE7678B008AFE69 = {
 						CreatedOnToolsVersion = 7.1;
 						DevelopmentTeamName = "Joylord Systems Ltd";
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
 					AA73448F1BE76820008AFE69 = {
@@ -769,7 +769,7 @@
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2,3,4";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -931,7 +931,7 @@
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2,3,4";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -1198,7 +1198,7 @@
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2,3,4";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -1229,7 +1229,7 @@
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2,3,4";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
